@@ -1,0 +1,19 @@
+{
+  "name": "cse-341-kigozi",
+  "version": "1.0.0",
+  "description": "My first project",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kigozi-nich/cse-341-kigozi.git"
+  },
+  "author": "Kigozi Nicholas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kigozi-nich/cse-341-kigozi/issues"
+  },
+  "homepage": "https://github.com/kigozi-nich/cse-341-kigozi#readme"
+}
